@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667402665 source:h:\lab6\lab6 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"MyLibrary.h"
+
+1667156412 h:\lab6\lab6 c\mylibrary.h
+	<windows.h>
+

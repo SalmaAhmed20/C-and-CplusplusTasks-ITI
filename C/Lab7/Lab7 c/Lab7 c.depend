@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667342961 source:h:\lab7\lab7 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"MyLibrary.h"
+
+1667341715 h:\lab7\lab7 c\mylibrary.h
+	<windows.h>
+

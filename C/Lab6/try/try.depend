@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667157639 source:h:\lab6\try\main.c
+	<stdio.h>
+	<stdlib.h>
+

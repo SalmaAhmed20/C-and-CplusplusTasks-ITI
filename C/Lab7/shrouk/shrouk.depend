@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667580977 source:h:\lab7\shrouk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

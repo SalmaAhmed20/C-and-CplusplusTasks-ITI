@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1667428508 source:h:\lab7\try\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mylibrary.h"
+
+1667419113 h:\lab7\try\mylibrary.h
+	<windows.h>
+
