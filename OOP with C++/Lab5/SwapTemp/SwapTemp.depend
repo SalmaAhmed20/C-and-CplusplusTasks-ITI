@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670499819 source:e:\materials\iti\oop with c++\swaptemp\main.cpp
+	<iostream>
+	"Complex.h"
+
+1670500665 e:\materials\iti\oop with c++\swaptemp\complex.h
+	<iostream>
+

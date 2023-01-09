@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1671112035 source:e:\materials\iti\oop with c++\lab7\jaggedarray\main.cpp
+	<iostream>
+	<graphics.h>
+

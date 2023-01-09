@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1670501644 source:e:\materials\iti\oop with c++\lab5 stacktemplete\main.cpp
+	<iostream>
+	"Complex.h"
+
+1670500710 e:\materials\iti\oop with c++\lab5 stacktemplete\complex.h
+	<iostream>
+
+1672244583 source:e:\materials\iti\oop with c++\lab5\lab5 stacktemplete\main.cpp
+	<iostream>
+	"Complex.h"
+
+1670500710 e:\materials\iti\oop with c++\lab5\lab5 stacktemplete\complex.h
+	<iostream>
+

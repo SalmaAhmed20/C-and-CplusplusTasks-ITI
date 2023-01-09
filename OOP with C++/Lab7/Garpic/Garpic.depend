@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1671107653 source:e:\materials\iti\oop with c++\lab7\garpic\main.cpp
+	<Windows.h>
+	<unistd.h>
+	<iostream>
+	<cstdlib>
+	"Graphic.h"
+
+1672228946 e:\materials\iti\oop with c++\lab7\garpic\graphic.h
+	<iostream>
+	<graphics.h>
+

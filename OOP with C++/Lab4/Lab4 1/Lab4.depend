@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1670417357 source:e:\lab4\main.cpp
+	<iostream>
+
+1670498821 source:e:\materials\iti\oop with c++\lab4\main.cpp
+	<iostream>
+
+1671106068 source:e:\materials\iti\oop with c++\lab4\lab4 1\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
